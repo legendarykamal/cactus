@@ -14344,10 +14344,10 @@ joi@17.4.2:
     "@sideway/formula" "^3.0.0"
     "@sideway/pinpoint" "^2.0.0"
 
-jose@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/jose/-/jose-4.1.0.tgz#486a8dda9a32602e18953d17eb3835fb3f6d6ce0"
-  integrity sha512-Hqx2vuNlo5sDe+ZWvOXAExWXk31mXgxMuUkUjEIeGNU4KFPZHO8hOnljhb25eoK4g+fth+7tU+k+AA+p/eZtYw==
+jose@4.9.2:
+  version "4.9.2"
+  resolved "https://registry.yarnpkg.com/jose/-/jose-4.9.2.tgz#268994df4443b9c191de0b001c2e3796ac6cf368"
+  integrity sha512-EqKvu2PqJCD3Jrg3PvcYZVS7D21qMVLSYMDAFcOdGUEOpJSLNtJO7NjLANvu3SYHVl6pdP2ff7ve6EZW2nX7Nw==
 
 js-sha256@0.9.0:
   version "0.9.0"
